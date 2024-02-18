@@ -1,0 +1,26 @@
+Basic Shortcut
+New File= ( Ctrl + N )
+Open = ( Ctrl + O )
+Save File = ( Ctrl + S)
+Open Print Window = ( Ctrl + P )
+Cut = ( Ctrl + X )
+Copy = ( Ctrl + C )
+Paste = ( Ctrl + V )
+Undo = ( Ctrl + Z )
+Redo = (  Ctrl + Shift + Z )
+Close = ( Ctrl + W )
+Close all = ( Alt + Shift + W)
+Save for Wed and Devices ( Alt + Shift + Ctrl + S )
+Revert = ( F12
+
+Zoom and Out = ( ALT + SCROLL)
+ERASE = E, 
+[ , ] = Increase and Decrease the Brush
+Lass, Polygonal, Magnetic = ( L, CTRL + ENTER )
+Pen Tool = ( P, CTRL + ENTER, CTRL + SHIFT + I)
+
+
+Restoration:
+Pen Tool = ALT + Click
+image => mode => cmyk color
+properties => colorize ok
